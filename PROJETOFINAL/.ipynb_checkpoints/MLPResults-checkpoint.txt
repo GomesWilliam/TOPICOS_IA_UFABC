@@ -1,0 +1,4 @@
+RF Results 
+MLPClassifier(hidden_layer_sizes=(30,60),learning_rate='adaptive',learning_rate_init=0.01)
+0.8900888265544648
+0.02487846445503071

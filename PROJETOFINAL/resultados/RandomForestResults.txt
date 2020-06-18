@@ -1,0 +1,8 @@
+RF Results 
+RandomForestClassifier(criterion='entropy',max_features=None,min_samples_split=8,n_estimators=10)
+0.8901122019635344
+0.026588888196202046
+0.7483012240923633
+0.04711939988275444
+0.7935202952176373
+0.06675000657684578
